@@ -25,5 +25,27 @@
   <ItemGroup>
     <None Include="CWON_Uffizi.Art.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Buildings.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\WonderMovie.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Gameplay\Uffizi_Gameplay.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Uffizi_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Gameplay\" />
+    <Folder Include="Text\" />
+  </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>

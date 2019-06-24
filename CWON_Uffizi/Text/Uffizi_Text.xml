@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_UFFIZI_NAME">
+			<Text>Uffizi Gallery</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_DESCRIPTION">
+			<Text>1 free Great Artist appears near the city where the wonder was built. Contains 3 slots for Great Works of Art. It must be built on flat Grassland or Plains next to a City Centre.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UFFIZI_QUOTE">
+			<Text>"All those things have given me the greatest satisfaction and contentment because they are not only for the honor of God but are likewise for my own remembrance."[NEWLINE] – Cosimo de Medici</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_1">
+			<Text>Originally constructed from 1560 through 1581 AD as offices (in Italian, uffizi) for the Florentine magistrates, the Uffizi Gallery is one of the world's oldest and most famous art repositories, housing the finest collection of Italian Renaissance paintings anywhere. It is also now home to priceless antiques, sculptures, and more than 100,000 drawings and prints. In 1574, the unfinished top floor was converted into a repository for art treasures amassed by the ruling de Medici family. Over the following decades, other portions of the structure were refurbished as art galleries and storage areas. According to Vasari, artists such as da Vinci and Michelangelo gathered at the Uffizi "for beauty, for work and for recreation."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_3">
+			<Text></Text>
+		</Row>
+	</EnglishText>
+</GameData>
