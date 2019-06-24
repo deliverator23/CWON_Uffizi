@@ -18,6 +18,7 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>CWON_Uffizi</AssemblyName>
     <RootNamespace>CWON_Uffizi</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Uff_DB"><File>Gameplay/Uffizi_Gameplay.sql</File></UpdateDatabase><UpdateArt id="Uff_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="Uff_Icons"><File /></UpdateIcons><UpdateText id="Uff_Text"><File>Text/Uffizi_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>

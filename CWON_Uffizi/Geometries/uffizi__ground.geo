@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects..GeometryInstance>
+<AssetObjects:GeometryInstance>
 <m_CookParams>
 <m_Values/>
 </m_CookParams>
@@ -14,7 +14,7 @@
 <m_Name text="ground"/>
 <m_Groups>
 <Element>
-<m_Name text="Ufizzi_Grnd_DIFF"/>
+<m_Name text="Ufizzi_Grnd_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>32</m_nPrims>
 </Element>
@@ -25,7 +25,6 @@
 </Element>
 </m_Meshes>
 <m_Bones>
-<Element text="CN6_ADJUSTMENT_BONE_1"/>
 <Element text="ground"/>
 </m_Bones>
 <m_ModelName text="ground"/>
@@ -46,4 +45,4 @@
 <Element text="DecalGeometry"/>
 </m_Tags>
 <m_Groups/>
-</AssetObjects..GeometryInstance>
+</AssetObjects:GeometryInstance>

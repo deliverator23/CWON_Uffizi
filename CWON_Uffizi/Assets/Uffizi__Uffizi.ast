@@ -83,47 +83,11 @@
                         <m_MeshName text="Uffizi"/>
                         <m_StateName text="Pillaged"/>
                     </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Ufizzi_DIFF"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Ufizzi_DIFF.dds"/>
-                        <m_MeshName text="Uffizi"/>
-                        <m_StateName text="Unbuilt"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Ufizzi_DIFF"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Ufizzi_DIFF.dds"/>
-                        <m_MeshName text="Uffizi"/>
-                        <m_StateName text="Construction"/>
-                    </Element>
                 </m_GroupStates>
             </Element>
             <Element>
                 <m_Name text="ground"/>
-                <m_GeoName text="uffizi__ground_DCL_ground"/>
+                <m_GeoName text="uffizi__ground"/>
                 <m_GroupStates>
                     <Element>
                         <m_Values>
@@ -134,7 +98,7 @@
                                     <m_ParamName text="Material"/>
                                 </Element>
                                 <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>false</m_bValue>
+                                    <m_bValue>true</m_bValue>
                                     <m_ParamName text="Visible"/>
                                 </Element>
                             </m_Values>
@@ -170,7 +134,7 @@
                                     <m_ParamName text="Material"/>
                                 </Element>
                                 <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>false</m_bValue>
+                                    <m_bValue>true</m_bValue>
                                     <m_ParamName text="Visible"/>
                                 </Element>
                             </m_Values>
@@ -216,7 +180,9 @@
                 <m_ParamName text="CastShadows"/>
             </Element>
             <Element class="AssetObjects..BoolValue">
-                <m_bValue><false></false></m_bValue>
+                <m_bValue>
+                    <false></false>
+                </m_bValue>
                 <m_ParamName text="CastAO"/>
             </Element>
             <Element class="AssetObjects..RGBValue">
