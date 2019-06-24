@@ -19,5 +19,50 @@
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_UFFIZI_CHAPTER_HISTORY_PARA_3">
 			<Text></Text>
 		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_NAME">
+			<Text>Sandro Botticelli</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_NAME">
+			<Text>Raphael</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_TITIAN_NAME">
+			<Text>Titian</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_TITIAN_CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_1_NAME">
+			<Text>Sistine Madonna</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_2_NAME">
+			<Text>The Transfiguration</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_3_NAME">
+			<Text>La Donna Velata</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_1_NAME">
+			<Text>The Birth of Venus</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_2_NAME">
+			<Text>The Adoration of the Magi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_3_NAME">
+			<Text>Primavera</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_TITIAN_1_NAME">
+			<Text>Equestrian Portrait of Charles V</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_TITIAN_2_NAME">
+			<Text>Bacchus and Ariadne</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CWON_TITIAN_3_NAME">
+			<Text>The Assumption of the Virgin</Text>
+		</Row>
 	</EnglishText>
 </GameData>
