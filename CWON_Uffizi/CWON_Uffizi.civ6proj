@@ -2,12 +2,12 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Uffizi Gallery (World Wonder)</Name>
+    <Name>Uffizi (World Wonder)</Name>
     <Guid>e12c350d-df6a-4d21-9302-4466cab4353c</Guid>
     <ProjectGuid>9c6865ee-e68d-4d60-a08e-786e9892359d</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Adds the Uffizi Gallery as a (World Wonder).</Teaser>
-    <Description>Adds the Uffizi Gallery as a (World Wonder).</Description>
+    <Teaser>Adds the Uffizi as a (World Wonder).</Teaser>
+    <Description>Adds the Uffizi as a (World Wonder).</Description>
     <Authors>Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
@@ -18,7 +18,7 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>CWON_Uffizi</AssemblyName>
     <RootNamespace>CWON_Uffizi</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Uff_DB"><File>Gameplay/Uffizi_Gameplay.sql</File></UpdateDatabase><UpdateArt id="Uff_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="Uff_Icons"><File /></UpdateIcons><UpdateText id="Uff_Text"><File>Text/Uffizi_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Uff_DB"><File>Gameplay/Uffizi_Gameplay.sql</File></UpdateDatabase><UpdateArt id="Uff_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="Uff_Icons"><File></File><File>Icons/Uffizi_Icons.xml</File></UpdateIcons><UpdateText id="Uff_Text"><File>Text/Uffizi_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -39,6 +39,9 @@
     <Content Include="Gameplay\Uffizi_Gameplay.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Icons\Uffizi_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Text\Uffizi_Text.xml">
       <SubType>Content</SubType>
     </Content>
@@ -46,6 +49,7 @@
   <ItemGroup>
     <Folder Include="ArtDefs\" />
     <Folder Include="Gameplay\" />
+    <Folder Include="Icons\" />
     <Folder Include="Text\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />

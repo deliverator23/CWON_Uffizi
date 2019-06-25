@@ -1,44 +1,92 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects..XLP>
-	<m_Version>
-		<major>4</major>
-		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
-	</m_Version>
-	<m_ClassName text="UITexture"/>
-	<m_PackageName text="UITextures"/>
-	<m_Entries>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_256"/>
-			<m_ObjectName text="Icon_Uffizi_256"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_128"/>
-			<m_ObjectName text="Icon_Uffizi_128"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_32"/>
-			<m_ObjectName text="Icon_Uffizi_32"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_38"/>
-			<m_ObjectName text="Icon_Uffizi_38"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_50"/>
-			<m_ObjectName text="Icon_Uffizi_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Icon_Uffizi_64"/>
-			<m_ObjectName text="Icon_Uffizi_64"/>
-		</Element>
-	</m_Entries>
-	<m_AllowedPlatforms>
-		<Element>WINDOWS</Element>
-		<Element>LINUX</Element>
-		<Element>MACOS</Element>
-		<Element>IOS</Element>
-	</m_AllowedPlatforms>
+    <m_Version>
+        <major>4</major>
+        <minor>0</minor>
+        <build>315</build>
+        <revision>805</revision>
+    </m_Version>
+    <m_ClassName text="UITexture"/>
+    <m_PackageName text="UITextures"/>
+    <m_Entries>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_256"/>
+            <m_ObjectName text="Icon_Uffizi_256"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_128"/>
+            <m_ObjectName text="Icon_Uffizi_128"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_32"/>
+            <m_ObjectName text="Icon_Uffizi_32"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_38"/>
+            <m_ObjectName text="Icon_Uffizi_38"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_50"/>
+            <m_ObjectName text="Icon_Uffizi_50"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Icon_Uffizi_64"/>
+            <m_ObjectName text="Icon_Uffizi_64"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_1"/>
+            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_2"/>
+            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_2"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_3"/>
+            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_3"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_RAPHAEL_1"/>
+            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_RAPHAEL_2"/>
+            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_2"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_RAPHAEL_3"/>
+            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_3"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_TITIAN_1"/>
+            <m_ObjectName text="GREATWORK_CWON_TITIAN_1"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_TITIAN_2"/>
+            <m_ObjectName text="GREATWORK_CWON_TITIAN_2"/>
+        </Element>
+        <Element>
+            <m_EntryID text="GREATWORK_CWON_TITIAN_3"/>
+            <m_ObjectName text="GREATWORK_CWON_TITIAN_3"/>
+        </Element>
+        <Element>
+            <m_EntryID text="RENART_GW_Artists256"/>
+            <m_ObjectName text="RENART_GW_Artists256"/>
+        </Element>
+        <Element>
+            <m_EntryID text="RENART_GW_Artists45"/>
+            <m_ObjectName text="RENART_GW_Artists45"/>
+        </Element>
+        <Element>
+            <m_EntryID text="RENART_GW_Artists64"/>
+            <m_ObjectName text="RENART_GW_Artists64"/>
+        </Element>
+    </m_Entries>
+    <m_AllowedPlatforms>
+        <Element>WINDOWS</Element>
+        <Element>LINUX</Element>
+        <Element>MACOS</Element>
+        <Element>IOS</Element>
+    </m_AllowedPlatforms>
 </AssetObjects..XLP>
 
