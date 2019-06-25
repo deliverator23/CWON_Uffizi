@@ -2,7 +2,7 @@
 <GameData>
 	<EnglishText>
 		<Row Tag="LOC_BUILDING_UFFIZI_NAME">
-			<Text>Uffizi Gallery</Text>
+			<Text>Uffizi</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_UFFIZI_DESCRIPTION">
 			<Text>1 free Great Artist appears near the city where the wonder was built. Contains 3 slots for Great Works of Art. It must be built on flat Grassland or Plains next to a City Centre.</Text>
