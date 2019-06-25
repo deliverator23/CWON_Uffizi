@@ -49,7 +49,19 @@
 						<m_Description text=""/>
 						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
 						<m_fDuration>0.000000</m_fDuration>
-						<m_Triggers/>
+						<m_Triggers>
+							<Element>
+								<m_eType>SOUND</m_eType>
+								<m_Name text="1"/>
+								<m_Description text=""/>
+								<m_FXName text="Play_Wonder_Music_Hermitage"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text=""/>
+								<m_fStartTime>0.000000</m_fStartTime>
+								<m_fDuration>0.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+						</m_Triggers>
 						<m_Tracks>
 							<Element>
 								<m_Name text="Sound"/>
