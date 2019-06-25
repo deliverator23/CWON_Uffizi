@@ -551,6 +551,7 @@
             <libraryName text="UITexture"/>
             <relativePackagePaths>
                 <Element text="UITextures"/>
+				<Element text="UI/UI_GreatWorksArt.blp"/>
             </relativePackagePaths>
         </Element>
         <Element>

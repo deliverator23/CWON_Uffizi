@@ -34,42 +34,6 @@
             <m_ObjectName text="Icon_Uffizi_64"/>
         </Element>
         <Element>
-            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_1"/>
-            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_1"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_2"/>
-            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_2"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_BOTTICELLI_3"/>
-            <m_ObjectName text="GREATWORK_CWON_BOTTICELLI_3"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_RAPHAEL_1"/>
-            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_1"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_RAPHAEL_2"/>
-            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_2"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_RAPHAEL_3"/>
-            <m_ObjectName text="GREATWORK_CWON_RAPHAEL_3"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_TITIAN_1"/>
-            <m_ObjectName text="GREATWORK_CWON_TITIAN_1"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_TITIAN_2"/>
-            <m_ObjectName text="GREATWORK_CWON_TITIAN_2"/>
-        </Element>
-        <Element>
-            <m_EntryID text="GREATWORK_CWON_TITIAN_3"/>
-            <m_ObjectName text="GREATWORK_CWON_TITIAN_3"/>
-        </Element>
-        <Element>
             <m_EntryID text="RENART_GW_Artists256"/>
             <m_ObjectName text="RENART_GW_Artists256"/>
         </Element>
