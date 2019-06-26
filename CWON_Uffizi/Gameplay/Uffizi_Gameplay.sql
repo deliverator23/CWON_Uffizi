@@ -6,7 +6,7 @@ VALUES ('BUILDING_UFFIZI', 'LOC_BUILDING_UFFIZI_NAME', 'LOC_BUILDING_UFFIZI_DESC
 
 INSERT INTO BuildingPrereqs (Building, PrereqBuilding) VALUES ('BUILDING_UFFIZI', 'BUILDING_BANK');
 
-INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange) VALUES  ('BUILDING_UFFIZI', 'YIELD_CULTURE', 2);
+INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange) VALUES  ('BUILDING_UFFIZI', 'YIELD_GOLD', 2);
 
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType)
 VALUES
@@ -69,11 +69,11 @@ INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_UFFIZ
 
 
 -- DO NOT COMMIT - Testing Only
-DELETE FROM GreatWork_YieldChanges WHERE GreatWorkType IN (SELECT GreatWorkType FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART');
+--DELETE FROM GreatWork_YieldChanges WHERE GreatWorkType IN (SELECT GreatWorkType FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART');
 
-DELETE FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART';
+--DELETE FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART';
 
-DELETE FROM GreatPersonIndividuals WHERE GreatPersonClassType = 'GREAT_PERSON_CLASS_ARTIST';
+--DELETE FROM GreatPersonIndividuals WHERE GreatPersonClassType = 'GREAT_PERSON_CLASS_ARTIST';
 
 
 -- Add Renaissance Great Artists - Botticelli, Raphael, Caravaggio.

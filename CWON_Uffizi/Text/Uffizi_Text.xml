@@ -5,7 +5,7 @@
 			<Text>Uffizi</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_UFFIZI_DESCRIPTION">
-			<Text>1 free Great Artist appears near the city where the wonder was built. Contains 3 slots for Great Works of Art. It must be built on flat Grassland or Plains next to a City Centre.</Text>
+			<Text>1 free Great Artist appears near the city where the wonder was built. Contains 3 slots for Great Works of Art. Any City with Art Museum yields + 1 Culture. It must be built on flat Grassland or Plains next to a City Centre. Requires Bank Building.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_UFFIZI_QUOTE">
 			<Text>"All those things have given me the greatest satisfaction and contentment because they are not only for the honor of God but are likewise for my own remembrance."[NEWLINE] – Cosimo de Medici</Text>
