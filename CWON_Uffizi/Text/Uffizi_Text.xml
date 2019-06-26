@@ -25,8 +25,8 @@
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_NAME">
 			<Text>Raphael</Text>
 		</Row>
-		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_TITIAN_NAME">
-			<Text>Titian</Text>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_NAME">
+			<Text>Caravaggio</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_RAPHAEL_CHAPTER_HISTORY_PARA_1">
 			<Text></Text>
@@ -34,7 +34,7 @@
 		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_BOTTICELLI_CHAPTER_HISTORY_PARA_1">
 			<Text></Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_TITIAN_CHAPTER_HISTORY_PARA_1">
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CWON_CARAVAGGIO_CHAPTER_HISTORY_PARA_1">
 			<Text></Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CWON_RAPHAEL_1_NAME">
@@ -55,14 +55,14 @@
 		<Row Tag="LOC_GREATWORK_CWON_BOTTICELLI_3_NAME">
 			<Text>Primavera</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_CWON_TITIAN_1_NAME">
-			<Text>Equestrian Portrait of Charles V</Text>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_1_NAME">
+			<Text>Supper at Emmaus</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_CWON_TITIAN_2_NAME">
-			<Text>Bacchus and Ariadne</Text>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_2_NAME">
+			<Text>Medusa</Text>
 		</Row>
-		<Row Tag="LOC_GREATWORK_CWON_TITIAN_3_NAME">
-			<Text>The Assumption of the Virgin</Text>
+		<Row Tag="LOC_GREATWORK_CWON_CARAVAGGIO_3_NAME">
+			<Text>The Incredulity of Saint Thomas</Text>
 		</Row>
 	</EnglishText>
 </GameData>

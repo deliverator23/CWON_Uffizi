@@ -22,16 +22,16 @@
 			<m_ObjectName text="CWON_RAPHAEL_3"/>
 		</Element>
 		<Element>
-			<m_EntryID text="CWON_TITIAN_1"/>
-			<m_ObjectName text="CWON_TITIAN_1"/>
+			<m_EntryID text="CWON_CARAVAGGIO_1"/>
+			<m_ObjectName text="CWON_CARAVAGGIO_1"/>
 		</Element>
 		<Element>
-			<m_EntryID text="CWON_TITIAN_2"/>
-			<m_ObjectName text="CWON_TITIAN_2"/>
+			<m_EntryID text="CWON_CARAVAGGIO_2"/>
+			<m_ObjectName text="CWON_CARAVAGGIO_2"/>
 		</Element>
 		<Element>
-			<m_EntryID text="CWON_TITIAN_3"/>
-			<m_ObjectName text="CWON_TITIAN_3"/>
+			<m_EntryID text="CWON_CARAVAGGIO_3"/>
+			<m_ObjectName text="CWON_CARAVAGGIO_3"/>
 		</Element>
 		<Element>
 			<m_EntryID text="CWON_BOTTICELLI_1"/>
