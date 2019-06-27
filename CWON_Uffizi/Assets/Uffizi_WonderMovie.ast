@@ -1679,24 +1679,6 @@
 						</m_Values>
 						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
 						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Uffizi_Tile_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
 						<m_StateName text="Ruined"/>
 					</Element>
 				</m_GroupStates>
