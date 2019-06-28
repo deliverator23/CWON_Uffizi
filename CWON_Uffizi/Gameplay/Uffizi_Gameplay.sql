@@ -66,16 +66,6 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('UFFIZI_ART_MUSE
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_UFFIZI', 'UFFIZI_ART_MUSEUM_CULTURE_MODIFIER');
 
 
-
-
--- DO NOT COMMIT - Testing Only
---DELETE FROM GreatWork_YieldChanges WHERE GreatWorkType IN (SELECT GreatWorkType FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART');
-
---DELETE FROM GreatWorks WHERE GreatWorkObjectType = 'GREATWORKOBJECT_ART';
-
---DELETE FROM GreatPersonIndividuals WHERE GreatPersonClassType = 'GREAT_PERSON_CLASS_ARTIST';
-
-
 -- Add Renaissance Great Artists - Botticelli, Raphael, Caravaggio.
 INSERT INTO Types
 			(Type,										Kind)
